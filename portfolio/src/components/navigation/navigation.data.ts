@@ -2,7 +2,8 @@ import { NavigationItem } from "./navigation.types"
 
 export const navigationItems:NavigationItem[] = [
 	{tabName:"Home", pagePath:"/"},
-	{tabName:"My Projects", pagePath:"/projects"}
+	{tabName:"Projects", pagePath:"/projects"},
+	{tabName:"Gallery", pagePath:"/gallery"}
 ]
 
 /** --- HOME
