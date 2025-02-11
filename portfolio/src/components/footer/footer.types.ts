@@ -5,6 +5,5 @@ export type UserItem = {
 }
 
 export type LinkItem = {
-    itemURL:string,
-    itemSvg:string
+    itemURL:string
 }
