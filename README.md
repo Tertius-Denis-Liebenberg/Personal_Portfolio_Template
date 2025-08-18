@@ -1,36 +1,22 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Personal Portfolio Website
 
-## Getting Started
+## Overview
+This project is a modern, responsive portfolio website built using Next.js, React, and Tailwind CSS. It serves as a professional online presence, showcasing my skills, projects, and experience in web development. The site features a clean and intuitive design, ensuring a seamless user experience across various devices.
 
-First, run the development server:
+## Technologies Used
+- **Next.js:** For server-side rendering and static site generation, enhancing the website's performance and SEO.
+- **React:** To build reusable UI components, ensuring a dynamic and interactive user interface.
+- **Tailwind CSS:** For styling, allowing for rapid design implementation with a utility-first approach.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## Features
+1. **Home Page:** An engaging introduction with a brief overview of my skills and a professional photo.
+2. **Projects:** A showcase of my key projects, each with descriptions, technologies used, and live links or GitHub repositories.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Highlights
+- **Performance:** Leveraging Next.js for optimized performance and fast load times.
+- **SEO-Friendly:** Implemented best practices for search engine optimization to increase visibility.
+- **Responsive Design:** Ensured compatibility across all devices with a mobile-first approach using Tailwind CSS.
+- **Accessibility:** Followed accessibility guidelines to make the site usable for everyone.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+## Purpose
+The primary goal of this portfolio website is to provide a comprehensive view of my professional capabilities, attract potential employers or clients, and share my passion for web development. It serves as a testament to my skills in Next.js, React, and Tailwind CSS, demonstrating my ability to create functional, aesthetically pleasing, and user-centric web applications.
